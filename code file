@@ -6,3 +6,6 @@ git clone <repository_url>
 git add <file_name>
     git commit -m "Your commit message"
 git status
+git reset
+git checkout -b <branch name>
+git merge <branch name>
