@@ -1,0 +1,8 @@
+some command learn to git
+<br 
+git push origin main
+git init
+git clone <repository_url>
+git add <file_name>
+    git commit -m "Your commit message"
+git status
